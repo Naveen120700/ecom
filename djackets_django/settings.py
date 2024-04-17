@@ -92,8 +92,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'ecombackend',
         'USER': 'ecombackenduser',
-        'PASSWORD': 'ecom_backend_user ',
-        'HOST': 'w3-django-project.cdxmgq9zqqlr.us-east-1.rds.amazonaws.com',
+        'PASSWORD': 'ecom_backend_password',
+        'HOST': 'ecombackend.c7sm0iqmoex7.ap-south-1.rds.amazonaws.com',
         'PORT': '5432'
     }
 }
